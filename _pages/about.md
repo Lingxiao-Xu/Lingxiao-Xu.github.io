@@ -13,6 +13,6 @@ I am very fortunate to be supervised by advised by [Prof. Qinglan Wei](https://d
  
 I was advised by [Prof. Shan Liu](https://dsmi.cuc.edu.cn/2024/0624/c4580a232908/page.htm) of CUC Lab from [School of Data Science and Media Intelligence](https://dsmi.cuc.edu.cn/), Communication University of China, [Prof. Bo Li](https://dsmi.cuc.edu.cn/2021/0908/c8004a185952/page.htm) from [School of Data Science and Media Intelligence](https://dsmi.cuc.edu.cn/) and [Prof. Ying Lian](https://xinwenxueyuan.cuc.edu.cn/2021/0608/c7646a182636/page.htm) from [School of Journalism and Communication](https://xinwenxueyuan.cuc.edu.cn/), Communication University of China.
 
-You can find my CV here: [Lingxiao Xu's Curriculum Vitae](../assets/Lingxiao Xu's CV.pdf).  
+You can find my CV here: [Lingxiao Xu's Curriculum Vitae](../assets/Curriculum_Vitae_1.pdf)
 
-You can find my Portfolio here: [Lingxiao Xu's Portfolio](../assets/Portfolio-Lingxiao Xu.pdf).
+You can find my Portfolio here: [Lingxiao Xu's Portfolio](../assets/Portfolio.pdf).
